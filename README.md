@@ -1,4 +1,4 @@
-BYU Cybersecurity Student
+UW-Madison PhD student
 
 <!---
 KatherineRackliffe/KatherineRackliffe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
